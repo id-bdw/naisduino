@@ -13,8 +13,8 @@
           "category": "Arduino",
           "url": "https://github.com/id-bdw/naisduino/raw/master/naisduino.zip",
           "archiveFileName": "naisduino.zip",
-          "checksum": "SHA-256:BD66B565241D76A7B7E0795307164661DDA8798A5E93BE8F1DC1FA6A7FA8C0A9",
-          "size": "8616895",
+          "checksum": "SHA-256:88B34C2B650787AC8E6EDCF67B8F62C34AE9EB00B96D8E1064906E2DF70B320A",
+          "size": "8624831",
           "boards": [
 	    {"name": "NaisDuino"},
             {"name": "NaisDuino B"}
