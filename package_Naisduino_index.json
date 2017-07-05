@@ -10,7 +10,7 @@
           "name": "Naisduino b (32-bits ARM Cortex-M4)",
           "architecture": "Naisduino",
           "version": "1.0.0",
-          "category": "Naisduino",
+          "category": "Arduino",
           "url": "https://github.com/id-bdw/naisduino/raw/master/naisduino.zip",
           "archiveFileName": "naisduino.zip",
           "checksum": "SHA-256:BD66B565241D76A7B7E0795307164661DDA8798A5E93BE8F1DC1FA6A7FA8C0A9",
