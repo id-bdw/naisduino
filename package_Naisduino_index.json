@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-	  "name": "Naisduino"
+	  "name": "Naisduino",
 	  "email": "naisduino@gmail.com", 
       "maintainer": "Naisduino",  
       "websiteURL": "https://github.com/naisduino", 
@@ -23,7 +23,7 @@
               "packager": "Naisduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
-            },
+            }
           ]
         },
 		
@@ -62,8 +62,8 @@
               "size": "51029223"
             }
           ]
-        }, 
-      ], 
+        } 
+      ] 
       
     }
   ]
