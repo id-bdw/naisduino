@@ -41,8 +41,8 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "archiveFileName": "uploader-1.0.0-win",
-              "url": "http://lukman.ce.student.pens.ac.id/uploader-1.0.0-win.zip",
+              "archiveFileName": "uploader-win.zip",
+              "url": "http://lukman.ce.student.pens.ac.id/uploader-win.zip",
               "checksum": "SHA-256:D64D892DDF704F704EB1ABBE13185A597263EDFA497AD695A7091B1572B3B0F3",
               "size": "12080098"
             }
